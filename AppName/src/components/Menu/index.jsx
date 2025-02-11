@@ -1,4 +1,4 @@
-import MenuItem from "C:/dig3716c/moduleFive/react-menu-app/AppName/src/components/MenuItem";
+import MenuItem from "/src/components/MenuItem";
 
 const Menu = ({ menuName, menuItems }) => {
   console.log(menuItems);

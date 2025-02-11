@@ -1,5 +1,5 @@
-import "C:/dig3716c/moduleFive/react-menu-app/AppName/src/App.css";
-import Menu from "C:/dig3716c/moduleFive/react-menu-app/AppName/src/components/Menu";
+import "/src/App.css";
+import Menu from "/src/components/Menu";
 
 const MenuApp = ({ menuData }) => {
   console.log(menuData);
